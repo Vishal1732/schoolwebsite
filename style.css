@@ -147,13 +147,13 @@ font-family: "Playfair Display"
  font-family: "Playfair Display"
 }
 /*****menu section****/
-#menu{
+#school{
     margin:60px 0px;
     display:flex;
     align-items:center;
     justify-content:center;
 }
-#menu-content{
+#school-content{
     display:flex;
     flex-direction:column;
     width:50%;
@@ -162,22 +162,22 @@ font-family: "Playfair Display"
     justify-content:center;
     
 }
-.menu-items{
+.school-items{
     margin:20px;
     
     
 }
-#menu-main-heading{
+#school-main-heading{
     text-align:center;
     letter-spacing:5px;
 margin:10px;
 font-size:60px;
 }
-.menu-headings{
+.school-headings{
 padding-bottom:10px;
 letter-spacing:5px;
 }
-.menu-des{
+.school-des{
     color:rgb(82, 76, 76);
 }
 /******contact section*****/
